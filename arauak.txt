@@ -1,0 +1,27 @@
+﻿JOKOA: ASMATU ZENBAKIA
+
+
+DESKRIBAPENA:
+Joko honetan, programak ausazko zenbaki sekretu bat sortzen du.
+Jokalariaren helburua ahalik eta saiakera gutxienetan kopuru hori asmatzea da.
+
+
+ARAUAK:
+  - Zenbakia 1 eta gehieneko kopuru mugatua izango da.
+  - Jokalariak saiakera kopuru mugatua du.
+  - Saiakera bakoitzaren ondoren, programak arrastoak emango ditu:
+      "Altuagoa" zenbaki sekretua handiagoa bada
+      "Baxuagoa", zenbaki sekretua txikiagoa bada
+  - Jokalariak asmatzen duenean edo saiorik gabe geratzen denean amaitzen da jokoa.
+
+
+ZAILTASUNA:
+Erreza--> 1-50. 10 Saiakera
+Ertaina --> 1-100. 7 Saiakera
+Zaila --> 1-200. 5 Saiakera 
+
+
+PUNTUAZIOA:
+   - Zenbat eta saiakera gutxiago erabili, orduan eta puntuazio handiagoa lortuko duzu.
+   - Azkar asmatzen baduzu, puntu gehiago lortuko dituzu.
+Zorte on eta ondo pasa!
