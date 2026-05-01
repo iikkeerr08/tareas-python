@@ -20,8 +20,10 @@ Erreza--> 1-50. 10 Saiakera
 Ertaina --> 1-100. 7 Saiakera
 Zaila --> 1-200. 5 Saiakera 
 
+
 KONTRARELOJ JOKUA:
 15 segundu izango dituzu 1-100 artean dagoen ausazko zenbakia asmatzeko.
+
 
 PUNTUAZIOA:
    - Zenbat eta saiakera gutxiago erabili, orduan eta puntuazio handiagoa lortuko duzu.
